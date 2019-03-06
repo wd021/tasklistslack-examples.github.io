@@ -32,4 +32,4 @@ Use **`/list [@user/#topic]`** to view tasks for a specific tag.
 /list #design
 ```
 
-?>&bull; Responses will be shown as private messages. If you want to post it publically to the whole team, add **`public`** to the end of the command, like **/list #design public**.
+?>Responses will be shown as private messages. If you want to post it publically to the whole team, add **`public`** to the end of the command, like **/list #design public**.
