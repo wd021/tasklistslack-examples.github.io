@@ -1,6 +1,8 @@
 ![TaskList logo](https://s3.amazonaws.com/tasklistguru/tasklist.png)
 
-> #### TaskList is a task manager for your Slack team. Here's a guide on how to use it. Every team member has access to the same commands.
+<h5>
+TaskList is a task manager for your Slack team. Here's a guide on how to use it. Every team member has access to the same commands.
+</h5>
 
 ## Add Tasks
 
