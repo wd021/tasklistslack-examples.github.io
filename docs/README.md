@@ -6,7 +6,7 @@ TaskList is a task manager for your Slack team. Here's a guide on how to use it.
 
 ## Add Tasks
 
-Use **`/task`** to add a task in Slack. Add tags to categorize them (**`@users`** and/or **`#topics`**).
+Use **`/task`** to add a task in Slack. Add tags to categorize them (**`@users`** and/or **`#tags`**).
 
 ```examples
 /task Discuss new design plans! @Allison @Dan #design
