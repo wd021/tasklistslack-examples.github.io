@@ -24,7 +24,7 @@ Use **`/list`** to view a list of all your tags.
 /list
 ```
 
-Use **`/list [@user/#topic]`** to view tasks for a specific tag.
+Use **`/list [@user/#tag]`** to view tasks for a specific tag.
 
 ```examples
 /list @everyone
